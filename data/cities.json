@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Montech",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-21T23:01:54.603Z",
+      "notes": "aa",
+      "position": {
+        "lat": "43.94627121442567",
+        "lng": "1.268047958700125"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Caseda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-21T23:07:32.355Z",
+      "notes": "",
+      "position": {
+        "lat": "42.55463993368587",
+        "lng": "-1.3436434320168724"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Vallan",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-22T10:45:26.755Z",
+      "notes": "",
+      "position": {
+        "lat": "47.74011587625679",
+        "lng": "3.530076412647754"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Ventrosa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-25T18:39:38.889Z",
+      "notes": "",
+      "position": {
+        "lat": "42.11629453218123",
+        "lng": "-2.853651724164042"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Torralba de los Frailes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-28T09:23:42.816Z",
+      "notes": "",
+      "position": {
+        "lat": "41.048739975465324",
+        "lng": "-1.6668613044143934"
+      },
+      "id": 5
+    }
+  ]
+}
